@@ -1,7 +1,7 @@
 /*This is random file*/
 
-#include<iostream>;
-using namespase std.
+#include<iostream>
+using namespase std;
 
 int main()
 {
